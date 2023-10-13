@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there, I'm Ilman  👋
+## About me:
+- 🔭 I’m currently working as Government Employees
+- 🌱 I’m currently learning Data Analyst
+- 💬 Ask me about anything
+- 📫 How to reach me: ilman.saleh1578@gmail.com
 
-<!--
-**ilman1578/ilman1578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+#### 1. [Universitas Sulawesi Barat] | Bachelor of Management | Majene `2015-2019`
+#### 2. [SMK N 1 Karossa] | Multimedia | Karossa `2012-2015`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Experience:
+#### 1. [Kantor Pertanahan Kab. Pasangkayu] | PPNPN | Pasangkayu `2022 - Now`
+#### 2. [SDIT Tahfidzul Majene] | Administration Staff | Majene `2020-2021`
+---
+
+### Connect with me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/Ilman_Lyman#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Ilman_Lyman#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/lyman_15#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/lyman_15#gh-dark-mode-only)
+
+
+
+[webdev]: https://github.com/ilman1578
